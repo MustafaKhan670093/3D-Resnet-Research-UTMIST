@@ -1,5 +1,5 @@
 <a href="https://github.com/MustafaKhan670093/Hand-Gesture-Recognition-Research-UTMIST#hand-gesture-recognition-research--utmist-">
-    <img src="Images/round-logo.png" alt="UTMIST: Hand Gesture Recognition System" title="UTMIST: Hand Gesture Recognition System" align="right" height="80" />
+    <img src="Images/utmist-logo.png" alt="UTMIST: 3D ResNets Research" title="UTMIST: 3D ResNets Research" align="right" height="80" />
 </a>
 
 # 3D ResNets Research | UTMIST 🌌 
