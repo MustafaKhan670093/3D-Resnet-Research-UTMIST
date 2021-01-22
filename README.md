@@ -2,7 +2,7 @@
     <img src="Images/utmist-logo.png" alt="UTMIST: 3D ResNets Research" title="UTMIST: 3D ResNets Research" align="right" height="80" />
 </a>
 
-# 3D ResNets Research | UTMIST 🌌 
+# 3D ResNets Research | UTMIST 🧠 
 
 ## Introduction
 
