@@ -6,5 +6,5 @@
 
 ## Introduction
 
-The focus of this research project is on reproducing the work of the paper on [Learning Spatio-Temporal Feature With 3D Residual Networks For Action Recognition](https://arxiv.org/pdf/1708.07632.pdf). The process of understanding, reproducing and testing whether the results hold is something not often done to papers! It is both an opportunity to do this as well as practice building the components of a complicated network architecture. In the process, if there are insights my team and I gain, we will try extending the work of the paper.
+The focus of this research project is on reproducing the work of the paper on [Learning Spatio-Temporal Feature With 3D Residual Networks For Action Recognition](https://arxiv.org/pdf/1708.07632.pdf). The process of understanding, reproducing and testing whether the results hold is something not often done to ML papers! It is both an opportunity to do this as well as practice building the components of a complicated network architecture. In the process, if there are insights my team and I gain, we will try extending the work of the paper.
 
