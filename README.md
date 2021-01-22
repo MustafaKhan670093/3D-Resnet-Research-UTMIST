@@ -1,4 +1,4 @@
-<a href="https://github.com/MustafaKhan670093/Hand-Gesture-Recognition-Research-UTMIST#hand-gesture-recognition-research--utmist-">
+<a href="https://github.com/MustafaKhan670093/3D-Resnet-Research-UTMIST/blob/main/README.md#3d-resnets-research--utmist-">
     <img src="Images/utmist-logo.png" alt="UTMIST: 3D ResNets Research" title="UTMIST: 3D ResNets Research" align="right" height="80" />
 </a>
 
